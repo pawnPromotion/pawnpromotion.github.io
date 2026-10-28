@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="pawnPromotion avatar">
+  <rect width="240" height="240" rx="48" fill="#f5f1e8"/>
+  <circle cx="120" cy="88" r="42" fill="#176b87"/>
+  <path d="M58 204c8-46 31-72 62-72s54 26 62 72" fill="#c5523d"/>
+  <path d="M78 74c18-31 63-34 84 0" fill="none" stroke="#202124" stroke-width="10" stroke-linecap="round"/>
+  <text x="120" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#202124">PP</text>
+</svg>

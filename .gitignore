@@ -1,0 +1,12 @@
+node_modules/
+public/
+.deploy_git/
+.hexo/
+db.json
+debug.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+.env
+.env.*
+backup-astro-*/
